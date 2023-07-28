@@ -1,0 +1,3570 @@
+{
+    "nodes": [
+        {
+            "id": "jairbolsonaro",
+            "name": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(114, 159, 192)"
+        },
+        {
+            "id": "LulaOficial",
+            "name": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(198, 125, 136)"
+        },
+        {
+            "id": "AcacioFavacho",
+            "name": "AcacioFavacho",
+            "label": "centro",
+            "color": "rgb(179, 169, 173)"
+        },
+        {
+            "id": "acirgurgacz",
+            "name": "acirgurgacz",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "id": "AfonsoFlorence",
+            "name": "AfonsoFlorence",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "id": "Alan_Rick",
+            "name": "Alan_Rick",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "id": "Alceu_Moreira",
+            "name": "Alceu_Moreira",
+            "label": "centro",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "id": "alessandromolon",
+            "name": "alessandromolon",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "id": "AlexisFonteyne",
+            "name": "AlexisFonteyne",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "id": "Alice_Portugal",
+            "name": "Alice_Portugal",
+            "label": "esquerda",
+            "color": "rgb(201, 117, 129)"
+        },
+        {
+            "id": "alielmachado",
+            "name": "alielmachado",
+            "label": "esquerda",
+            "color": "rgb(195, 132, 142)"
+        },
+        {
+            "id": "Altineu",
+            "name": "Altineu",
+            "label": "centro",
+            "color": "rgb(182, 160, 166)"
+        },
+        {
+            "id": "alvarodias_",
+            "name": "alvarodias_",
+            "label": "direita",
+            "color": "rgb(134, 164, 188)"
+        },
+        {
+            "id": "anaamelialemos",
+            "name": "anaamelialemos",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "id": "andrefernm",
+            "name": "andrefernm",
+            "label": "direita",
+            "color": "rgb(68, 144, 200)\""
+        },
+        {
+            "id": "AndreJanonesAdv",
+            "name": "AndreJanonesAdv",
+            "label": "direita",
+            "color": "rgb(134, 164, 188)"
+        },
+        {
+            "id": "andrepdt12",
+            "name": "andrepdt12",
+            "label": "esquerda",
+            "color": "rgb(190, 144, 152)"
+        },
+        {
+            "id": "Arthurvneto",
+            "name": "Arthurvneto",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "id": "assis_carvalho",
+            "name": "assis_carvalho",
+            "label": "esquerda",
+            "color": "rgb(197, 127, 138)"
+        },
+        {
+            "id": "Baleia_Rossi",
+            "name": "Baleia_Rossi",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "id": "belivaldochagas",
+            "name": "belivaldochagas",
+            "label": "centro",
+            "color": "rgb(190, 144, 152)"
+        },
+        {
+            "id": "BetoFaroPT",
+            "name": "BetoFaroPT",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "id": "Biakicis",
+            "name": "Biakicis",
+            "label": "direita",
+            "color": "rgb(68, 144, 200)\""
+        },
+        {
+            "id": "BiradoPindare",
+            "name": "BiradoPindare",
+            "label": "esquerda",
+            "color": "rgb(190, 142, 150)"
+        },
+        {
+            "id": "BohnGass",
+            "name": "BohnGass",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "id": "BolsonaroSP",
+            "name": "BolsonaroSP",
+            "label": "direita",
+            "color": "rgb(99, 154, 194)\""
+        },
+        {
+            "id": "cabojunioamaral",
+            "name": "cabojunioamaral",
+            "label": "direita",
+            "color": "rgb(65, 144, 201)\""
+        },
+        {
+            "id": "CacaLeao",
+            "name": "CacaLeao",
+            "label": "centro",
+            "color": "rgb(184, 157, 163)"
+        },
+        {
+            "id": "caleromarcelo",
+            "name": "caleromarcelo",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "id": "CamiloPSB",
+            "name": "CamiloPSB",
+            "label": "esquerda",
+            "color": "rgb(185, 155, 162)"
+        },
+        {
+            "id": "capitao_wagner",
+            "name": "capitao_wagner",
+            "label": "direita",
+            "color": "rgb(146, 168, 186)"
+        },
+        {
+            "id": "carlosaviana",
+            "name": "carlosaviana",
+            "label": "direita",
+            "color": "rgb(129, 163, 189)"
+        },
+        {
+            "id": "CarlosBolsonaro",
+            "name": "CarlosBolsonaro",
+            "label": "direita",
+            "color": "rgb(99, 154, 194)\""
+        },
+        {
+            "id": "carlosjordy",
+            "name": "carlosjordy",
+            "label": "direita",
+            "color": "rgb(63, 143, 201)\""
+        },
+        {
+            "id": "CarlosMoises",
+            "name": "CarlosMoises",
+            "label": "direita",
+            "color": "rgb(119, 160, 191)"
+        },
+        {
+            "id": "carlossampaio_",
+            "name": "carlossampaio_",
+            "label": "direita",
+            "color": "rgb(126, 162, 189)"
+        },
+        {
+            "id": "CarlosZarattini",
+            "name": "CarlosZarattini",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "id": "Carlos_Gaguim",
+            "name": "Carlos_Gaguim",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "id": "carteiroreaca",
+            "name": "carteiroreaca",
+            "label": "direita",
+            "color": "rgb(63, 143, 201)\""
+        },
+        {
+            "id": "Casagrande_ES",
+            "name": "Casagrande_ES",
+            "label": "esquerda",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "id": "celinaleao",
+            "name": "celinaleao",
+            "label": "centro",
+            "color": "rgb(176, 175, 179)"
+        },
+        {
+            "id": "celsorussomanno",
+            "name": "celsorussomanno",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "id": "chico_dangelo",
+            "name": "chico_dangelo",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "id": "CinthiaCRibeiro",
+            "name": "CinthiaCRibeiro",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "id": "ciro_nogueira",
+            "name": "ciro_nogueira",
+            "label": "centro",
+            "color": "rgb(179, 169, 173)"
+        },
+        {
+            "id": "coelho_rodrigo",
+            "name": "coelho_rodrigo",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "id": "Collor",
+            "name": "Collor",
+            "label": "centro",
+            "color": "rgb(176, 175, 179)"
+        },
+        {
+            "id": "confuciomoura",
+            "name": "confuciomoura",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "id": "ContaratoSenado",
+            "name": "ContaratoSenado",
+            "label": "direita",
+            "color": "rgb(131, 164, 188)"
+        },
+        {
+            "id": "costa_rui",
+            "name": "costa_rui",
+            "label": "esquerda",
+            "color": "rgb(197, 127, 138)"
+        },
+        {
+            "id": "DamaresAlves",
+            "name": "DamaresAlves",
+            "label": "direita",
+            "color": "rgb(85, 150, 197)\""
+        },
+        {
+            "id": "DanielCoelho23",
+            "name": "DanielCoelho23",
+            "label": "direita",
+            "color": "rgb(146, 168, 186)"
+        },
+        {
+            "id": "Daniel_PCdoB",
+            "name": "Daniel_PCdoB",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "id": "darioberger",
+            "name": "darioberger",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "id": "dasilvabenedita",
+            "name": "dasilvabenedita",
+            "label": "esquerda",
+            "color": "rgb(205, 108, 122)"
+        },
+        {
+            "id": "davialcolumbre",
+            "name": "davialcolumbre",
+            "label": "direita",
+            "color": "rgb(97, 153, 195)\""
+        },
+        {
+            "id": "delegado_waldir",
+            "name": "delegado_waldir",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "id": "DepAfonsoHamm",
+            "name": "DepAfonsoHamm",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "id": "DepArthurMaia",
+            "name": "DepArthurMaia",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "id": "DepBrunaFurlan",
+            "name": "DepBrunaFurlan",
+            "label": "centro",
+            "color": "rgb(175, 177, 180)"
+        },
+        {
+            "id": "depdarcidematos",
+            "name": "depdarcidematos",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "id": "depheliolopes",
+            "name": "depheliolopes",
+            "label": "direita",
+            "color": "rgb(68, 144, 200)\""
+        },
+        {
+            "id": "depHugoLeal",
+            "name": "depHugoLeal",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "id": "depjorgesolla",
+            "name": "depjorgesolla",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "id": "depjpassarinho",
+            "name": "depjpassarinho",
+            "label": "centro",
+            "color": "rgb(182, 160, 166)"
+        },
+        {
+            "id": "DepJulioCesarPI",
+            "name": "DepJulioCesarPI",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "id": "DepJuscelino",
+            "name": "DepJuscelino",
+            "label": "direita",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "id": "depleomonteiro",
+            "name": "depleomonteiro",
+            "label": "esquerda",
+            "color": "rgb(202, 115, 128)"
+        },
+        {
+            "id": "DepLuizCarlos",
+            "name": "DepLuizCarlos",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "id": "deppauloguedes",
+            "name": "deppauloguedes",
+            "label": "esquerda",
+            "color": "rgb(192, 139, 148)"
+        },
+        {
+            "id": "DepSostenes",
+            "name": "DepSostenes",
+            "label": "direita",
+            "color": "rgb(121, 161, 190)"
+        },
+        {
+            "id": "depstefano",
+            "name": "depstefano",
+            "label": "direita",
+            "color": "rgb(148, 169, 185)"
+        },
+        {
+            "id": "DeputadaMariana",
+            "name": "DeputadaMariana",
+            "label": "direita",
+            "color": "rgb(141, 167, 186)"
+        },
+        {
+            "id": "DeputadoBacelar",
+            "name": "DeputadoBacelar",
+            "label": "esquerda",
+            "color": "rgb(187, 150, 157)"
+        },
+        {
+            "id": "DeputadoFoletto",
+            "name": "DeputadoFoletto",
+            "label": "centro",
+            "color": "rgb(182, 162, 167)"
+        },
+        {
+            "id": "deputadopeninha",
+            "name": "deputadopeninha",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "id": "DepValmir",
+            "name": "DepValmir",
+            "label": "esquerda",
+            "color": "rgb(205, 108, 122)"
+        },
+        {
+            "id": "dep_acoutinho",
+            "name": "dep_acoutinho",
+            "label": "centro",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "id": "dep_clarissa",
+            "name": "dep_clarissa",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "id": "dep_padrejoao",
+            "name": "dep_padrejoao",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "id": "dep_paulinho",
+            "name": "dep_paulinho",
+            "label": "esquerda",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "id": "DF_PauloFreire",
+            "name": "DF_PauloFreire",
+            "label": "direita",
+            "color": "rgb(153, 170, 184)"
+        },
+        {
+            "id": "dilmabr",
+            "name": "dilmabr",
+            "label": "esquerda",
+            "color": "rgb(190, 142, 150)"
+        },
+        {
+            "id": "DomingosSavioMG",
+            "name": "DomingosSavioMG",
+            "label": "centro",
+            "color": "rgb(168, 175, 181)"
+        },
+        {
+            "id": "Domingos_Neto",
+            "name": "Domingos_Neto",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "id": "EderMauroPA",
+            "name": "EderMauroPA",
+            "label": "direita",
+            "color": "rgb(94, 153, 195)\""
+        },
+        {
+            "id": "EdmilsonPSOL",
+            "name": "EdmilsonPSOL",
+            "label": "esquerda",
+            "color": "rgb(203, 113, 126)"
+        },
+        {
+            "id": "EduardoBraga_AM",
+            "name": "EduardoBraga_AM",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "id": "EduardoGomesTO",
+            "name": "EduardoGomesTO",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "id": "EduGiraoOficial",
+            "name": "EduGiraoOficial",
+            "label": "direita",
+            "color": "rgb(87, 150, 197)\""
+        },
+        {
+            "id": "EdvaldoNogueira",
+            "name": "EdvaldoNogueira",
+            "label": "esquerda",
+            "color": "rgb(191, 140, 149)"
+        },
+        {
+            "id": "efraimfilho",
+            "name": "efraimfilho",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "id": "EliasVazGyn",
+            "name": "EliasVazGyn",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "id": "elizianegama",
+            "name": "elizianegama",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "id": "elmanoferrer",
+            "name": "elmanoferrer",
+            "label": "centro",
+            "color": "rgb(160, 173, 183)"
+        },
+        {
+            "id": "enioverri",
+            "name": "enioverri",
+            "label": "esquerda",
+            "color": "rgb(205, 108, 122)"
+        },
+        {
+            "id": "erikakokay",
+            "name": "erikakokay",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "id": "ernestofaraujo",
+            "name": "ernestofaraujo",
+            "label": "direita",
+            "color": "rgb(90, 151, 196)\""
+        },
+        {
+            "id": "erosbiondini",
+            "name": "erosbiondini",
+            "label": "direita",
+            "color": "rgb(155, 171, 184)"
+        },
+        {
+            "id": "esperidiaoamin_",
+            "name": "esperidiaoamin_",
+            "label": "direita",
+            "color": "rgb(153, 170, 184)"
+        },
+        {
+            "id": "esuplicy",
+            "name": "esuplicy",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "id": "Everaldo_20",
+            "name": "Everaldo_20",
+            "label": "direita",
+            "color": "rgb(141, 167, 186)"
+        },
+        {
+            "id": "fatimabezerra",
+            "name": "fatimabezerra",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "id": "fbezerracoelho",
+            "name": "fbezerracoelho",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "id": "felipecarreras",
+            "name": "felipecarreras",
+            "label": "centro",
+            "color": "rgb(179, 169, 173)"
+        },
+        {
+            "id": "fernandapsol",
+            "name": "fernandapsol",
+            "label": "esquerda",
+            "color": "rgb(207, 103, 118)"
+        },
+        {
+            "id": "FernandoHoliday",
+            "name": "FernandoHoliday",
+            "label": "direita",
+            "color": "rgb(85, 150, 197)\""
+        },
+        {
+            "id": "filgmartin",
+            "name": "filgmartin",
+            "label": "direita",
+            "color": "rgb(73, 146, 199)\""
+        },
+        {
+            "id": "firmino_filho",
+            "name": "firmino_filho",
+            "label": "esquerda",
+            "color": "rgb(182, 160, 166)"
+        },
+        {
+            "id": "FlavioBolsonaro",
+            "name": "FlavioBolsonaro",
+            "label": "direita",
+            "color": "rgb(102, 155, 194)"
+        },
+        {
+            "id": "Francischini_",
+            "name": "Francischini_",
+            "label": "direita",
+            "color": "rgb(85, 150, 197)\""
+        },
+        {
+            "id": "f_trad",
+            "name": "f_trad",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "id": "GeneralGirao",
+            "name": "GeneralGirao",
+            "label": "direita",
+            "color": "rgb(80, 148, 198)\""
+        },
+        {
+            "id": "GenPeternelli",
+            "name": "GenPeternelli",
+            "label": "direita",
+            "color": "rgb(87, 150, 197)\""
+        },
+        {
+            "id": "geovaniadesa",
+            "name": "geovaniadesa",
+            "label": "direita",
+            "color": "rgb(148, 169, 185)"
+        },
+        {
+            "id": "geraldoalckmin",
+            "name": "geraldoalckmin",
+            "label": "centro",
+            "color": "rgb(175, 177, 180)"
+        },
+        {
+            "id": "gervasiomaia",
+            "name": "gervasiomaia",
+            "label": "esquerda",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "id": "giovanicherini",
+            "name": "giovanicherini",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "id": "Glauber_Braga",
+            "name": "Glauber_Braga",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "id": "gleisi",
+            "name": "gleisi",
+            "label": "esquerda",
+            "color": "rgb(194, 133, 143)"
+        },
+        {
+            "id": "GuajajaraSonia",
+            "name": "GuajajaraSonia",
+            "label": "esquerda",
+            "color": "rgb(208, 102, 117)"
+        },
+        {
+            "id": "GuilhermeMussi",
+            "name": "GuilhermeMussi",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "id": "guimaraes13PT",
+            "name": "guimaraes13PT",
+            "label": "esquerda",
+            "color": "rgb(203, 113, 126)"
+        },
+        {
+            "id": "GustinhoRibeiro",
+            "name": "GustinhoRibeiro",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "id": "Haddad_Fernando",
+            "name": "Haddad_Fernando",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "id": "HeitorSchuch",
+            "name": "HeitorSchuch",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "id": "helderbarbalho",
+            "name": "helderbarbalho",
+            "label": "centro",
+            "color": "rgb(179, 169, 173)"
+        },
+        {
+            "id": "heldersalomao",
+            "name": "heldersalomao",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "id": "HenriqueFontana",
+            "name": "HenriqueFontana",
+            "label": "esquerda",
+            "color": "rgb(203, 113, 126)"
+        },
+        {
+            "id": "HugoMottaPB",
+            "name": "HugoMottaPB",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "id": "iracemaportela",
+            "name": "iracemaportela",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "id": "IzalciLucas",
+            "name": "IzalciLucas",
+            "label": "direita",
+            "color": "rgb(129, 163, 189)"
+        },
+        {
+            "id": "jaqueswagner",
+            "name": "jaqueswagner",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "id": "jeanwyllys_real",
+            "name": "jeanwyllys_real",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "id": "jeronimogoergen",
+            "name": "jeronimogoergen",
+            "label": "direita",
+            "color": "rgb(143, 167, 186)"
+        },
+        {
+            "id": "JFMargarida",
+            "name": "JFMargarida",
+            "label": "esquerda",
+            "color": "rgb(208, 102, 117)"
+        },
+        {
+            "id": "joaoazevedolins",
+            "name": "joaoazevedolins",
+            "label": "centro",
+            "color": "rgb(187, 150, 157)"
+        },
+        {
+            "id": "joaocamposdep",
+            "name": "joaocamposdep",
+            "label": "centro",
+            "color": "rgb(160, 173, 183)"
+        },
+        {
+            "id": "joicehasselmann",
+            "name": "joicehasselmann",
+            "label": "direita",
+            "color": "rgb(92, 152, 196)\""
+        },
+        {
+            "id": "jorginhomello",
+            "name": "jorginhomello",
+            "label": "direita",
+            "color": "rgb(155, 171, 184)"
+        },
+        {
+            "id": "JoseAirtonPT",
+            "name": "JoseAirtonPT",
+            "label": "esquerda",
+            "color": "rgb(198, 125, 136)"
+        },
+        {
+            "id": "JoseMedeirosMT",
+            "name": "JoseMedeirosMT",
+            "label": "direita",
+            "color": "rgb(94, 153, 195)\""
+        },
+        {
+            "id": "josiasgomesba",
+            "name": "josiasgomesba",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "id": "KatiaAbreu",
+            "name": "KatiaAbreu",
+            "label": "esquerda",
+            "color": "rgb(188, 147, 155)"
+        },
+        {
+            "id": "KatiaSastre",
+            "name": "KatiaSastre",
+            "label": "direita",
+            "color": "rgb(75, 147, 199)\""
+        },
+        {
+            "id": "laurietecantora",
+            "name": "laurietecantora",
+            "label": "direita",
+            "color": "rgb(129, 163, 189)"
+        },
+        {
+            "id": "levyfidelix",
+            "name": "levyfidelix",
+            "label": "direita",
+            "color": "rgb(131, 164, 188)"
+        },
+        {
+            "id": "lidicedamata",
+            "name": "lidicedamata",
+            "label": "esquerda",
+            "color": "rgb(197, 127, 138)"
+        },
+        {
+            "id": "lincoln_portela",
+            "name": "lincoln_portela",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "id": "lindberghfarias",
+            "name": "lindberghfarias",
+            "label": "esquerda",
+            "color": "rgb(197, 127, 138)"
+        },
+        {
+            "id": "lpbragancabr",
+            "name": "lpbragancabr",
+            "label": "direita",
+            "color": "rgb(73, 146, 199)\""
+        },
+        {
+            "id": "LucasRedecker",
+            "name": "LucasRedecker",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "id": "lucasvgonzalez",
+            "name": "lucasvgonzalez",
+            "label": "direita",
+            "color": "rgb(114, 159, 192)"
+        },
+        {
+            "id": "lucianagenro",
+            "name": "lucianagenro",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "id": "LucianoDucci",
+            "name": "LucianoDucci",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "id": "LucianoRezende",
+            "name": "LucianoRezende",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "id": "Luciano_Cartaxo",
+            "name": "Luciano_Cartaxo",
+            "label": "esquerda",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "id": "MagnoMalta",
+            "name": "MagnoMalta",
+            "label": "direita",
+            "color": "rgb(97, 153, 195)\""
+        },
+        {
+            "id": "MajorVitorHugo",
+            "name": "MajorVitorHugo",
+            "label": "direita",
+            "color": "rgb(75, 147, 199)\""
+        },
+        {
+            "id": "ManuelaDavila",
+            "name": "ManuelaDavila",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "id": "maragabrilli",
+            "name": "maragabrilli",
+            "label": "direita",
+            "color": "rgb(138, 166, 187)"
+        },
+        {
+            "id": "Marceloalvaroan",
+            "name": "Marceloalvaroan",
+            "label": "direita",
+            "color": "rgb(82, 149, 197)\""
+        },
+        {
+            "id": "marceloaro",
+            "name": "marceloaro",
+            "label": "direita",
+            "color": "rgb(143, 167, 186)"
+        },
+        {
+            "id": "MarceloFreixo",
+            "name": "MarceloFreixo",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "id": "marceloramosam",
+            "name": "marceloramosam",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "id": "marcelvanhattem",
+            "name": "marcelvanhattem",
+            "label": "direita",
+            "color": "rgb(85, 150, 197)\""
+        },
+        {
+            "id": "marchezan_",
+            "name": "marchezan_",
+            "label": "direita",
+            "color": "rgb(153, 170, 184)"
+        },
+        {
+            "id": "marciojerry",
+            "name": "marciojerry",
+            "label": "esquerda",
+            "color": "rgb(193, 135, 145)"
+        },
+        {
+            "id": "marciolabre",
+            "name": "marciolabre",
+            "label": "direita",
+            "color": "rgb(60, 142, 202)\""
+        },
+        {
+            "id": "MarcoBertaiolli",
+            "name": "MarcoBertaiolli",
+            "label": "direita",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "id": "marcofeliciano",
+            "name": "marcofeliciano",
+            "label": "direita",
+            "color": "rgb(112, 158, 192)"
+        },
+        {
+            "id": "MarcosRogerio",
+            "name": "MarcosRogerio",
+            "label": "direita",
+            "color": "rgb(131, 164, 188)"
+        },
+        {
+            "id": "MargaretCoelho",
+            "name": "MargaretCoelho",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "id": "mariadorosario",
+            "name": "mariadorosario",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "id": "mariellefranco",
+            "name": "mariellefranco",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "id": "MariliaArraes",
+            "name": "MariliaArraes",
+            "label": "esquerda",
+            "color": "rgb(204, 110, 124)"
+        },
+        {
+            "id": "MarinaSilva",
+            "name": "MarinaSilva",
+            "label": "esquerda",
+            "color": "rgb(184, 157, 163)"
+        },
+        {
+            "id": "mario_heringer",
+            "name": "mario_heringer",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "id": "MCrivella",
+            "name": "MCrivella",
+            "label": "centro",
+            "color": "rgb(168, 175, 181)"
+        },
+        {
+            "id": "meirelles",
+            "name": "meirelles",
+            "label": "direita",
+            "color": "rgb(153, 170, 184)"
+        },
+        {
+            "id": "MichelTemer",
+            "name": "MichelTemer",
+            "label": "centro",
+            "color": "rgb(163, 173, 182)"
+        },
+        {
+            "id": "MottaTarcisio",
+            "name": "MottaTarcisio",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "id": "natbonavides",
+            "name": "natbonavides",
+            "label": "esquerda",
+            "color": "rgb(208, 102, 117)"
+        },
+        {
+            "id": "nelsinhotrad",
+            "name": "nelsinhotrad",
+            "label": "centro",
+            "color": "rgb(165, 174, 182)"
+        },
+        {
+            "id": "nelsonhbarbosa",
+            "name": "nelsonhbarbosa",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "id": "nelsonpelegrino",
+            "name": "nelsonpelegrino",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "id": "newton1510",
+            "name": "newton1510",
+            "label": "direita",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "id": "neyleprevost",
+            "name": "neyleprevost",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "id": "NiltoTatto",
+            "name": "NiltoTatto",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "id": "onyxlorenzoni",
+            "name": "onyxlorenzoni",
+            "label": "direita",
+            "color": "rgb(97, 153, 195)\""
+        },
+        {
+            "id": "oPedroFernandes",
+            "name": "oPedroFernandes",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "id": "orlandosilva",
+            "name": "orlandosilva",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "id": "OsmarTerra",
+            "name": "OsmarTerra",
+            "label": "direita",
+            "color": "rgb(104, 156, 193)"
+        },
+        {
+            "id": "ottoalencar",
+            "name": "ottoalencar",
+            "label": "esquerda",
+            "color": "rgb(182, 162, 167)"
+        },
+        {
+            "id": "padilhando",
+            "name": "padilhando",
+            "label": "esquerda",
+            "color": "rgb(198, 125, 136)"
+        },
+        {
+            "id": "Patrus_Ananias",
+            "name": "Patrus_Ananias",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "id": "paulaodopt",
+            "name": "paulaodopt",
+            "label": "esquerda",
+            "color": "rgb(204, 110, 124)"
+        },
+        {
+            "id": "pauloabiackel",
+            "name": "pauloabiackel",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "id": "pauloganime",
+            "name": "pauloganime",
+            "label": "direita",
+            "color": "rgb(104, 156, 193)"
+        },
+        {
+            "id": "PauloMartins10",
+            "name": "PauloMartins10",
+            "label": "direita",
+            "color": "rgb(73, 146, 199)\""
+        },
+        {
+            "id": "paulopaim",
+            "name": "paulopaim",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "id": "pauloteixeira13",
+            "name": "pauloteixeira13",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "id": "pedroocl",
+            "name": "pedroocl",
+            "label": "centro",
+            "color": "rgb(158, 172, 183)"
+        },
+        {
+            "id": "pedropaulo",
+            "name": "pedropaulo",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "id": "pedrowestphalen",
+            "name": "pedrowestphalen",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "id": "perpetua_acre",
+            "name": "perpetua_acre",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "id": "PompeodeMattos",
+            "name": "PompeodeMattos",
+            "label": "esquerda",
+            "color": "rgb(189, 145, 153)"
+        },
+        {
+            "id": "ProfIsrael",
+            "name": "ProfIsrael",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "id": "RafaelMottaRN",
+            "name": "RafaelMottaRN",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "id": "randolfeap",
+            "name": "randolfeap",
+            "label": "esquerda",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "id": "RaquelStasiaki",
+            "name": "RaquelStasiaki",
+            "label": "direita",
+            "color": "rgb(63, 143, 201)\""
+        },
+        {
+            "id": "ratinho_jr",
+            "name": "ratinho_jr",
+            "label": "direita",
+            "color": "rgb(131, 164, 188)"
+        },
+        {
+            "id": "ReginaldoLopes",
+            "name": "ReginaldoLopes",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "id": "renancalheiros",
+            "name": "renancalheiros",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "id": "RenanFilho_",
+            "name": "RenanFilho_",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "id": "renildo",
+            "name": "renildo",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "id": "rfalcao13",
+            "name": "rfalcao13",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "id": "RicardoBarrosPP",
+            "name": "RicardoBarrosPP",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "id": "RicardoIzar",
+            "name": "RicardoIzar",
+            "label": "centro",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "id": "ricardovelez",
+            "name": "ricardovelez",
+            "label": "direita",
+            "color": "rgb(82, 149, 197)\""
+        },
+        {
+            "id": "robertodelucena",
+            "name": "robertodelucena",
+            "label": "centro",
+            "color": "rgb(160, 173, 183)"
+        },
+        {
+            "id": "rodrigoagost",
+            "name": "rodrigoagost",
+            "label": "centro",
+            "color": "rgb(182, 160, 166)"
+        },
+        {
+            "id": "RodrigoCunhaAL",
+            "name": "RodrigoCunhaAL",
+            "label": "centro",
+            "color": "rgb(160, 173, 183)"
+        },
+        {
+            "id": "RodrigoMaia",
+            "name": "RodrigoMaia",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "id": "RogerioCorreia_",
+            "name": "RogerioCorreia_",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "id": "RomeuZema",
+            "name": "RomeuZema",
+            "label": "direita",
+            "color": "rgb(114, 159, 192)"
+        },
+        {
+            "id": "ronaldocaiado",
+            "name": "ronaldocaiado",
+            "label": "direita",
+            "color": "rgb(114, 159, 192)"
+        },
+        {
+            "id": "rsallesmma",
+            "name": "rsallesmma",
+            "label": "direita",
+            "color": "rgb(77, 147, 198)\""
+        },
+        {
+            "id": "RubensOtoni",
+            "name": "RubensOtoni",
+            "label": "esquerda",
+            "color": "rgb(193, 135, 145)"
+        },
+        {
+            "id": "rubenspereirajr",
+            "name": "rubenspereirajr",
+            "label": "esquerda",
+            "color": "rgb(195, 132, 142)"
+        },
+        {
+            "id": "samiabomfim",
+            "name": "samiabomfim",
+            "label": "esquerda",
+            "color": "rgb(208, 102, 117)"
+        },
+        {
+            "id": "samuelmoreira",
+            "name": "samuelmoreira",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "id": "SargentoFAHUR",
+            "name": "SargentoFAHUR",
+            "label": "direita",
+            "color": "rgb(87, 150, 197)\""
+        },
+        {
+            "id": "SenadoraSelma",
+            "name": "SenadoraSelma",
+            "label": "direita",
+            "color": "rgb(87, 150, 197)\""
+        },
+        {
+            "id": "senadorhumberto",
+            "name": "senadorhumberto",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "id": "SenadorKajuru",
+            "name": "SenadorKajuru",
+            "label": "direita",
+            "color": "rgb(138, 166, 187)"
+        },
+        {
+            "id": "senadorpetecao",
+            "name": "senadorpetecao",
+            "label": "direita",
+            "color": "rgb(155, 171, 184)"
+        },
+        {
+            "id": "SenadorRogerio",
+            "name": "SenadorRogerio",
+            "label": "esquerda",
+            "color": "rgb(195, 132, 142)"
+        },
+        {
+            "id": "Sen_Cristovam",
+            "name": "Sen_Cristovam",
+            "label": "esquerda",
+            "color": "rgb(182, 162, 167)"
+        },
+        {
+            "id": "Sen_Oriovisto",
+            "name": "Sen_Oriovisto",
+            "label": "direita",
+            "color": "rgb(97, 153, 195)\""
+        },
+        {
+            "id": "sen_wellington",
+            "name": "sen_wellington",
+            "label": "centro",
+            "color": "rgb(176, 175, 179)"
+        },
+        {
+            "id": "silascamara_",
+            "name": "silascamara_",
+            "label": "centro",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "id": "Silvio_CFilho",
+            "name": "Silvio_CFilho",
+            "label": "esquerda",
+            "color": "rgb(185, 155, 162)"
+        },
+        {
+            "id": "tabataamaralsp",
+            "name": "tabataamaralsp",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "id": "tarcisiogdf",
+            "name": "tarcisiogdf",
+            "label": "direita",
+            "color": "rgb(77, 147, 198)\""
+        },
+        {
+            "id": "tassojereissati",
+            "name": "tassojereissati",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "id": "Teresa_Surita",
+            "name": "Teresa_Surita",
+            "label": "direita",
+            "color": "rgb(136, 165, 187)"
+        },
+        {
+            "id": "TerezaCrisMS",
+            "name": "TerezaCrisMS",
+            "label": "direita",
+            "color": "rgb(82, 149, 197)\""
+        },
+        {
+            "id": "tuliogadelha",
+            "name": "tuliogadelha",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "id": "tumaoficial",
+            "name": "tumaoficial",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "id": "uczai",
+            "name": "uczai",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "id": "Vanderlan_VC",
+            "name": "Vanderlan_VC",
+            "label": "centro",
+            "color": "rgb(168, 175, 181)"
+        },
+        {
+            "id": "vanderleimacris",
+            "name": "vanderleimacris",
+            "label": "centro",
+            "color": "rgb(168, 175, 181)"
+        },
+        {
+            "id": "vanderloubet",
+            "name": "vanderloubet",
+            "label": "esquerda",
+            "color": "rgb(192, 139, 148)"
+        },
+        {
+            "id": "vanessa_grazz",
+            "name": "vanessa_grazz",
+            "label": "esquerda",
+            "color": "rgb(198, 125, 136)"
+        },
+        {
+            "id": "venezianovital",
+            "name": "venezianovital",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "id": "vicentinhojr",
+            "name": "vicentinhojr",
+            "label": "direita",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "id": "VICENTINHOPT",
+            "name": "VICENTINHOPT",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "id": "ViniciusPoit",
+            "name": "ViniciusPoit",
+            "label": "direita",
+            "color": "rgb(104, 156, 193)"
+        },
+        {
+            "id": "walteralvesrn",
+            "name": "walteralvesrn",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "id": "wdiaspi",
+            "name": "wdiaspi",
+            "label": "esquerda",
+            "color": "rgb(191, 140, 149)"
+        },
+        {
+            "id": "wevertonrocha",
+            "name": "wevertonrocha",
+            "label": "esquerda",
+            "color": "rgb(189, 145, 153)"
+        },
+        {
+            "id": "wilsonlimaAM",
+            "name": "wilsonlimaAM",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "id": "WilsonSantiago_",
+            "name": "WilsonSantiago_",
+            "label": "esquerda",
+            "color": "rgb(182, 162, 167)"
+        },
+        {
+            "id": "wilsonwitzel",
+            "name": "wilsonwitzel",
+            "label": "direita",
+            "color": "rgb(90, 151, 196)\""
+        },
+        {
+            "id": "WolneyQueirozM",
+            "name": "WolneyQueirozM",
+            "label": "centro",
+            "color": "rgb(187, 150, 157)"
+        },
+        {
+            "id": "zeca_dirceu",
+            "name": "zeca_dirceu",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "id": "_sergiosouza",
+            "name": "_sergiosouza",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        }
+    ],
+    "links": [
+        {
+            "source": "AcacioFavacho",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(179, 169, 173)"
+        },
+        {
+            "source": "acirgurgacz",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "acirgurgacz",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "AfonsoFlorence",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "source": "Alan_Rick",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "Alceu_Moreira",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "source": "alessandromolon",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "source": "AlexisFonteyne",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "source": "Alice_Portugal",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(201, 117, 129)"
+        },
+        {
+            "source": "alielmachado",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(195, 132, 142)"
+        },
+        {
+            "source": "Altineu",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(182, 160, 166)"
+        },
+        {
+            "source": "alvarodias_",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(134, 164, 188)"
+        },
+        {
+            "source": "anaamelialemos",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "source": "andrefernm",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(68, 144, 200)\""
+        },
+        {
+            "source": "andrefernm",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(68, 144, 200)\""
+        },
+        {
+            "source": "AndreJanonesAdv",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(134, 164, 188)"
+        },
+        {
+            "source": "andrepdt12",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(190, 144, 152)"
+        },
+        {
+            "source": "Arthurvneto",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "source": "Arthurvneto",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "source": "assis_carvalho",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(197, 127, 138)"
+        },
+        {
+            "source": "Baleia_Rossi",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "Baleia_Rossi",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "belivaldochagas",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(190, 144, 152)"
+        },
+        {
+            "source": "BetoFaroPT",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "source": "Biakicis",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(68, 144, 200)\""
+        },
+        {
+            "source": "BiradoPindare",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(190, 142, 150)"
+        },
+        {
+            "source": "BohnGass",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "source": "BohnGass",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "source": "BolsonaroSP",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(99, 154, 194)\""
+        },
+        {
+            "source": "BolsonaroSP",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(99, 154, 194)\""
+        },
+        {
+            "source": "cabojunioamaral",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(65, 144, 201)\""
+        },
+        {
+            "source": "cabojunioamaral",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(65, 144, 201)\""
+        },
+        {
+            "source": "CacaLeao",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(184, 157, 163)"
+        },
+        {
+            "source": "CacaLeao",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(184, 157, 163)"
+        },
+        {
+            "source": "caleromarcelo",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "source": "CamiloPSB",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(185, 155, 162)"
+        },
+        {
+            "source": "capitao_wagner",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(146, 168, 186)"
+        },
+        {
+            "source": "carlosaviana",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(129, 163, 189)"
+        },
+        {
+            "source": "CarlosBolsonaro",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(99, 154, 194)\""
+        },
+        {
+            "source": "carlosjordy",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(63, 143, 201)\""
+        },
+        {
+            "source": "CarlosMoises",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(119, 160, 191)"
+        },
+        {
+            "source": "CarlosMoises",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(119, 160, 191)"
+        },
+        {
+            "source": "carlossampaio_",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(126, 162, 189)"
+        },
+        {
+            "source": "CarlosZarattini",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "source": "CarlosZarattini",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "source": "Carlos_Gaguim",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "carteiroreaca",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(63, 143, 201)\""
+        },
+        {
+            "source": "Casagrande_ES",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "source": "celinaleao",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 175, 179)"
+        },
+        {
+            "source": "celsorussomanno",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "source": "chico_dangelo",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "source": "chico_dangelo",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "source": "CinthiaCRibeiro",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "source": "ciro_nogueira",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(179, 169, 173)"
+        },
+        {
+            "source": "coelho_rodrigo",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "source": "Collor",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 175, 179)"
+        },
+        {
+            "source": "Collor",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(176, 175, 179)"
+        },
+        {
+            "source": "confuciomoura",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "source": "ContaratoSenado",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(131, 164, 188)"
+        },
+        {
+            "source": "costa_rui",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(197, 127, 138)"
+        },
+        {
+            "source": "DamaresAlves",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(85, 150, 197)\""
+        },
+        {
+            "source": "DanielCoelho23",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(146, 168, 186)"
+        },
+        {
+            "source": "Daniel_PCdoB",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "source": "darioberger",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "source": "darioberger",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "source": "dasilvabenedita",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(205, 108, 122)"
+        },
+        {
+            "source": "davialcolumbre",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(97, 153, 195)\""
+        },
+        {
+            "source": "davialcolumbre",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(97, 153, 195)\""
+        },
+        {
+            "source": "delegado_waldir",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "source": "DepAfonsoHamm",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "DepArthurMaia",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "source": "DepBrunaFurlan",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(175, 177, 180)"
+        },
+        {
+            "source": "depdarcidematos",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "depheliolopes",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(68, 144, 200)\""
+        },
+        {
+            "source": "depHugoLeal",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "source": "depHugoLeal",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "source": "depjorgesolla",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "source": "depjpassarinho",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(182, 160, 166)"
+        },
+        {
+            "source": "DepJulioCesarPI",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "DepJulioCesarPI",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "DepJuscelino",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "DepJuscelino",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "depleomonteiro",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(202, 115, 128)"
+        },
+        {
+            "source": "DepLuizCarlos",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "deppauloguedes",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(192, 139, 148)"
+        },
+        {
+            "source": "DepSostenes",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(121, 161, 190)"
+        },
+        {
+            "source": "depstefano",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(148, 169, 185)"
+        },
+        {
+            "source": "DeputadaMariana",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(141, 167, 186)"
+        },
+        {
+            "source": "DeputadoBacelar",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(187, 150, 157)"
+        },
+        {
+            "source": "DeputadoFoletto",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(182, 162, 167)"
+        },
+        {
+            "source": "deputadopeninha",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "source": "DepValmir",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(205, 108, 122)"
+        },
+        {
+            "source": "DepValmir",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(205, 108, 122)"
+        },
+        {
+            "source": "dep_acoutinho",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "dep_clarissa",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "dep_clarissa",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "dep_padrejoao",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "source": "dep_paulinho",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "dep_paulinho",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "DF_PauloFreire",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(153, 170, 184)"
+        },
+        {
+            "source": "dilmabr",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(190, 142, 150)"
+        },
+        {
+            "source": "DomingosSavioMG",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(168, 175, 181)"
+        },
+        {
+            "source": "Domingos_Neto",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "EderMauroPA",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(94, 153, 195)\""
+        },
+        {
+            "source": "EdmilsonPSOL",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(203, 113, 126)"
+        },
+        {
+            "source": "EduardoBraga_AM",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "EduardoGomesTO",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "EduGiraoOficial",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(87, 150, 197)\""
+        },
+        {
+            "source": "EdvaldoNogueira",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(191, 140, 149)"
+        },
+        {
+            "source": "EdvaldoNogueira",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(191, 140, 149)"
+        },
+        {
+            "source": "efraimfilho",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "source": "EliasVazGyn",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "elizianegama",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "elizianegama",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "elmanoferrer",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(160, 173, 183)"
+        },
+        {
+            "source": "enioverri",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(205, 108, 122)"
+        },
+        {
+            "source": "erikakokay",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "source": "erikakokay",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "source": "ernestofaraujo",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(90, 151, 196)\""
+        },
+        {
+            "source": "erosbiondini",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(155, 171, 184)"
+        },
+        {
+            "source": "esperidiaoamin_",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(153, 170, 184)"
+        },
+        {
+            "source": "esuplicy",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "source": "Everaldo_20",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(141, 167, 186)"
+        },
+        {
+            "source": "fatimabezerra",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "source": "fbezerracoelho",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "source": "felipecarreras",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(179, 169, 173)"
+        },
+        {
+            "source": "fernandapsol",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(207, 103, 118)"
+        },
+        {
+            "source": "FernandoHoliday",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(85, 150, 197)\""
+        },
+        {
+            "source": "FernandoHoliday",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(85, 150, 197)\""
+        },
+        {
+            "source": "filgmartin",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(73, 146, 199)\""
+        },
+        {
+            "source": "firmino_filho",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(182, 160, 166)"
+        },
+        {
+            "source": "FlavioBolsonaro",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(102, 155, 194)"
+        },
+        {
+            "source": "Francischini_",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(85, 150, 197)\""
+        },
+        {
+            "source": "f_trad",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "GeneralGirao",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(80, 148, 198)\""
+        },
+        {
+            "source": "GenPeternelli",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(87, 150, 197)\""
+        },
+        {
+            "source": "geovaniadesa",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(148, 169, 185)"
+        },
+        {
+            "source": "geraldoalckmin",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(175, 177, 180)"
+        },
+        {
+            "source": "gervasiomaia",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "giovanicherini",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "source": "Glauber_Braga",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "source": "gleisi",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(194, 133, 143)"
+        },
+        {
+            "source": "GuajajaraSonia",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(208, 102, 117)"
+        },
+        {
+            "source": "GuilhermeMussi",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "GuilhermeMussi",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "guimaraes13PT",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(203, 113, 126)"
+        },
+        {
+            "source": "GustinhoRibeiro",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "source": "GustinhoRibeiro",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "source": "Haddad_Fernando",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "source": "HeitorSchuch",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "helderbarbalho",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(179, 169, 173)"
+        },
+        {
+            "source": "helderbarbalho",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(179, 169, 173)"
+        },
+        {
+            "source": "heldersalomao",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "source": "HenriqueFontana",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(203, 113, 126)"
+        },
+        {
+            "source": "HugoMottaPB",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        },
+        {
+            "source": "iracemaportela",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "iracemaportela",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "IzalciLucas",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(129, 163, 189)"
+        },
+        {
+            "source": "jaqueswagner",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "source": "jeanwyllys_real",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "source": "jeronimogoergen",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(143, 167, 186)"
+        },
+        {
+            "source": "jeronimogoergen",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(143, 167, 186)"
+        },
+        {
+            "source": "JFMargarida",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(208, 102, 117)"
+        },
+        {
+            "source": "joaoazevedolins",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(187, 150, 157)"
+        },
+        {
+            "source": "joaocamposdep",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(160, 173, 183)"
+        },
+        {
+            "source": "joicehasselmann",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(92, 152, 196)\""
+        },
+        {
+            "source": "jorginhomello",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(155, 171, 184)"
+        },
+        {
+            "source": "JoseAirtonPT",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(198, 125, 136)"
+        },
+        {
+            "source": "JoseMedeirosMT",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(94, 153, 195)\""
+        },
+        {
+            "source": "josiasgomesba",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "source": "KatiaAbreu",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(188, 147, 155)"
+        },
+        {
+            "source": "KatiaAbreu",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(188, 147, 155)"
+        },
+        {
+            "source": "KatiaSastre",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(75, 147, 199)\""
+        },
+        {
+            "source": "laurietecantora",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(129, 163, 189)"
+        },
+        {
+            "source": "levyfidelix",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(131, 164, 188)"
+        },
+        {
+            "source": "lidicedamata",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(197, 127, 138)"
+        },
+        {
+            "source": "lincoln_portela",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "lindberghfarias",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(197, 127, 138)"
+        },
+        {
+            "source": "lpbragancabr",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(73, 146, 199)\""
+        },
+        {
+            "source": "LucasRedecker",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "LucasRedecker",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "lucasvgonzalez",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(114, 159, 192)"
+        },
+        {
+            "source": "lucasvgonzalez",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(114, 159, 192)"
+        },
+        {
+            "source": "lucianagenro",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "source": "lucianagenro",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "source": "LucianoDucci",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "LucianoDucci",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "LucianoRezende",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "LucianoRezende",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "Luciano_Cartaxo",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "MagnoMalta",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(97, 153, 195)\""
+        },
+        {
+            "source": "MajorVitorHugo",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(75, 147, 199)\""
+        },
+        {
+            "source": "ManuelaDavila",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "source": "maragabrilli",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(138, 166, 187)"
+        },
+        {
+            "source": "Marceloalvaroan",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(82, 149, 197)\""
+        },
+        {
+            "source": "marceloaro",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(143, 167, 186)"
+        },
+        {
+            "source": "MarceloFreixo",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "source": "marceloramosam",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "marcelvanhattem",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(85, 150, 197)\""
+        },
+        {
+            "source": "marchezan_",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(153, 170, 184)"
+        },
+        {
+            "source": "marchezan_",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(153, 170, 184)"
+        },
+        {
+            "source": "marciojerry",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(193, 135, 145)"
+        },
+        {
+            "source": "marciolabre",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(60, 142, 202)\""
+        },
+        {
+            "source": "marciolabre",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(60, 142, 202)\""
+        },
+        {
+            "source": "MarcoBertaiolli",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "source": "marcofeliciano",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(112, 158, 192)"
+        },
+        {
+            "source": "MarcosRogerio",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(131, 164, 188)"
+        },
+        {
+            "source": "MargaretCoelho",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "source": "MargaretCoelho",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "source": "mariadorosario",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(200, 120, 132)"
+        },
+        {
+            "source": "mariellefranco",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "source": "MariliaArraes",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(204, 110, 124)"
+        },
+        {
+            "source": "MarinaSilva",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(184, 157, 163)"
+        },
+        {
+            "source": "mario_heringer",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "source": "mario_heringer",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "source": "MCrivella",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(168, 175, 181)"
+        },
+        {
+            "source": "meirelles",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(153, 170, 184)"
+        },
+        {
+            "source": "MichelTemer",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(163, 173, 182)"
+        },
+        {
+            "source": "MottaTarcisio",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "source": "natbonavides",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(208, 102, 117)"
+        },
+        {
+            "source": "nelsinhotrad",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(165, 174, 182)"
+        },
+        {
+            "source": "nelsonhbarbosa",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "source": "nelsonpelegrino",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "source": "newton1510",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "source": "newton1510",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "source": "neyleprevost",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(170, 176, 181)"
+        },
+        {
+            "source": "NiltoTatto",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "source": "onyxlorenzoni",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(97, 153, 195)\""
+        },
+        {
+            "source": "oPedroFernandes",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "source": "orlandosilva",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "source": "OsmarTerra",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(104, 156, 193)"
+        },
+        {
+            "source": "ottoalencar",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(182, 162, 167)"
+        },
+        {
+            "source": "padilhando",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(198, 125, 136)"
+        },
+        {
+            "source": "Patrus_Ananias",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "source": "paulaodopt",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(204, 110, 124)"
+        },
+        {
+            "source": "paulaodopt",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(204, 110, 124)"
+        },
+        {
+            "source": "pauloabiackel",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "pauloganime",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(104, 156, 193)"
+        },
+        {
+            "source": "PauloMartins10",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(73, 146, 199)\""
+        },
+        {
+            "source": "paulopaim",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "source": "pauloteixeira13",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "source": "pauloteixeira13",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "source": "pedroocl",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(158, 172, 183)"
+        },
+        {
+            "source": "pedroocl",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(158, 172, 183)"
+        },
+        {
+            "source": "pedropaulo",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "source": "pedrowestphalen",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "source": "pedrowestphalen",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "source": "perpetua_acre",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "source": "perpetua_acre",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "source": "PompeodeMattos",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(189, 145, 153)"
+        },
+        {
+            "source": "ProfIsrael",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(183, 159, 165)"
+        },
+        {
+            "source": "RafaelMottaRN",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "source": "RafaelMottaRN",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(180, 165, 170)"
+        },
+        {
+            "source": "randolfeap",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(186, 152, 159)"
+        },
+        {
+            "source": "RaquelStasiaki",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(63, 143, 201)\""
+        },
+        {
+            "source": "ratinho_jr",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(131, 164, 188)"
+        },
+        {
+            "source": "ReginaldoLopes",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "source": "renancalheiros",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "renancalheiros",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "RenanFilho_",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "RenanFilho_",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "renildo",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "source": "rfalcao13",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "source": "RicardoBarrosPP",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "RicardoBarrosPP",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "RicardoIzar",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "source": "ricardovelez",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(82, 149, 197)\""
+        },
+        {
+            "source": "robertodelucena",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(160, 173, 183)"
+        },
+        {
+            "source": "rodrigoagost",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(182, 160, 166)"
+        },
+        {
+            "source": "RodrigoCunhaAL",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(160, 173, 183)"
+        },
+        {
+            "source": "RodrigoMaia",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "source": "RodrigoMaia",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "source": "RogerioCorreia_",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(207, 105, 119)"
+        },
+        {
+            "source": "RomeuZema",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(114, 159, 192)"
+        },
+        {
+            "source": "ronaldocaiado",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(114, 159, 192)"
+        },
+        {
+            "source": "rsallesmma",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(77, 147, 198)\""
+        },
+        {
+            "source": "RubensOtoni",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(193, 135, 145)"
+        },
+        {
+            "source": "rubenspereirajr",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(195, 132, 142)"
+        },
+        {
+            "source": "samiabomfim",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(208, 102, 117)"
+        },
+        {
+            "source": "samuelmoreira",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "samuelmoreira",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(176, 174, 177)"
+        },
+        {
+            "source": "SargentoFAHUR",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(87, 150, 197)\""
+        },
+        {
+            "source": "SenadoraSelma",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(87, 150, 197)\""
+        },
+        {
+            "source": "senadorhumberto",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 123, 135)"
+        },
+        {
+            "source": "SenadorKajuru",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(138, 166, 187)"
+        },
+        {
+            "source": "senadorpetecao",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(155, 171, 184)"
+        },
+        {
+            "source": "senadorpetecao",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(155, 171, 184)"
+        },
+        {
+            "source": "SenadorRogerio",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(195, 132, 142)"
+        },
+        {
+            "source": "Sen_Cristovam",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(182, 162, 167)"
+        },
+        {
+            "source": "Sen_Oriovisto",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(97, 153, 195)\""
+        },
+        {
+            "source": "sen_wellington",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(176, 175, 179)"
+        },
+        {
+            "source": "silascamara_",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(173, 176, 180)"
+        },
+        {
+            "source": "Silvio_CFilho",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(185, 155, 162)"
+        },
+        {
+            "source": "Silvio_CFilho",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(185, 155, 162)"
+        },
+        {
+            "source": "tabataamaralsp",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(199, 122, 134)"
+        },
+        {
+            "source": "tarcisiogdf",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(77, 147, 198)\""
+        },
+        {
+            "source": "tassojereissati",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "source": "tassojereissati",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "source": "Teresa_Surita",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(136, 165, 187)"
+        },
+        {
+            "source": "Teresa_Surita",
+            "target": "LulaOficial",
+            "label": "direita",
+            "color": "rgb(136, 165, 187)"
+        },
+        {
+            "source": "TerezaCrisMS",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(82, 149, 197)\""
+        },
+        {
+            "source": "tuliogadelha",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "source": "tuliogadelha",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(201, 118, 131)"
+        },
+        {
+            "source": "tumaoficial",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(109, 157, 192)"
+        },
+        {
+            "source": "uczai",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(206, 107, 121)"
+        },
+        {
+            "source": "Vanderlan_VC",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(168, 175, 181)"
+        },
+        {
+            "source": "vanderleimacris",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(168, 175, 181)"
+        },
+        {
+            "source": "vanderleimacris",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(168, 175, 181)"
+        },
+        {
+            "source": "vanderloubet",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(192, 139, 148)"
+        },
+        {
+            "source": "vanessa_grazz",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(198, 125, 136)"
+        },
+        {
+            "source": "venezianovital",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "venezianovital",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(181, 164, 169)"
+        },
+        {
+            "source": "vicentinhojr",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(177, 172, 176)"
+        },
+        {
+            "source": "VICENTINHOPT",
+            "target": "jairbolsonaro",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "source": "VICENTINHOPT",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "source": "ViniciusPoit",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(104, 156, 193)"
+        },
+        {
+            "source": "walteralvesrn",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "walteralvesrn",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(178, 170, 174)"
+        },
+        {
+            "source": "wdiaspi",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(191, 140, 149)"
+        },
+        {
+            "source": "wevertonrocha",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(189, 145, 153)"
+        },
+        {
+            "source": "wilsonlimaAM",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(151, 170, 185)"
+        },
+        {
+            "source": "WilsonSantiago_",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(182, 162, 167)"
+        },
+        {
+            "source": "wilsonwitzel",
+            "target": "jairbolsonaro",
+            "label": "direita",
+            "color": "rgb(90, 151, 196)\""
+        },
+        {
+            "source": "WolneyQueirozM",
+            "target": "LulaOficial",
+            "label": "centro",
+            "color": "rgb(187, 150, 157)"
+        },
+        {
+            "source": "zeca_dirceu",
+            "target": "LulaOficial",
+            "label": "esquerda",
+            "color": "rgb(204, 112, 125)"
+        },
+        {
+            "source": "_sergiosouza",
+            "target": "jairbolsonaro",
+            "label": "centro",
+            "color": "rgb(179, 167, 172)"
+        }
+    ]
+}
