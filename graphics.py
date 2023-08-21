@@ -176,36 +176,231 @@ def graphic_info_pie(value1, value2, label1, label2, name_file):
     plt.savefig(f'./infoGraphicsPie/{name_file}.png', transparent=True)
 
 
+def return_posittion_username(json_file, username):
+    for item in json_file:
+        if item['username'] == username:
+            return item['position']
+
+
+def count_position_follow(json_file):
+
+    user_list = []
+
+    for item in json_file:
+        following_direita = 0
+        following_esquerda = 0
+        following_centro = 0
+        followers_direita = 0
+        followers_esquerda = 0
+        followers_centro = 0
+
+        for user in item['following']:
+            user_position = return_posittion_username(json_file, user)
+            if user_position == 'esquerda':
+                following_esquerda += 1
+            elif user_position == 'centro':
+                following_centro += 1
+            else:
+                following_direita += 1
+
+        for user in item['followers']:
+            user_position = return_posittion_username(json_file, user)
+            if user_position == 'esquerda':
+                followers_esquerda += 1
+            elif user_position == 'centro':
+                followers_centro += 1
+            else:
+                followers_direita += 1
+
+        result_json = {
+            'username': item['username'],
+            'following_direita': following_direita,
+            'following_esquerda': following_esquerda,
+            'following_centro': following_centro,
+            'followers_direita': followers_direita,
+            'followers_esquerda': followers_esquerda,
+            'followers_centro': followers_centro
+        }
+
+        user_list.append(result_json)
+
+    top_10_following_esquerda = sorted(
+        user_list, key=lambda x: x['following_esquerda'], reverse=True)[:10]
+
+    top_usernames_following_esquerda = [
+        user['username'] for user in top_10_following_esquerda]
+    top_following_counts_esquerda = [user['following_esquerda']
+                                     for user in top_10_following_esquerda]
+
+    plt.figure(figsize=(12, 6))
+    plt.bar(top_usernames_following_esquerda, top_following_counts_esquerda,
+            color='#ff9999', edgecolor='black', linewidth=1)
+    plt.xlabel('Usuário')
+    plt.ylabel('Quantidade de Seguintes')
+    plt.title(
+        'Top 10 Usuários Políticos com Maior Quantidade de Seguintes de Esquerda')
+    plt.xticks(rotation=45, ha='right')
+
+    for i, count in enumerate(top_following_counts_esquerda):
+        plt.text(i, count + 0.5, str(count), ha='center', va='bottom')
+
+    plt.tight_layout()
+    plt.savefig('./followingPositionGraphicsBar/top_10_seguintes_esquerda.png',
+                transparent=True)
+
+    top_10_following_direita = sorted(
+        user_list, key=lambda x: x['following_direita'], reverse=True)[:10]
+
+    top_usernames_following_direita = [
+        user['username'] for user in top_10_following_direita]
+    top_following_counts_direita = [user['following_direita']
+                                    for user in top_10_following_direita]
+
+    plt.figure(figsize=(12, 6))
+    plt.bar(top_usernames_following_direita, top_following_counts_direita,
+            color='#99ff99', edgecolor='black', linewidth=1)
+    plt.xlabel('Usuário')
+    plt.ylabel('Quantidade de Seguintes')
+    plt.title(
+        'Top 10 Usuários Políticos com Maior Quantidade de Seguintes de Direita')
+    plt.xticks(rotation=45, ha='right')
+
+    for i, count in enumerate(top_following_counts_direita):
+        plt.text(i, count + 0.5, str(count), ha='center', va='bottom')
+
+    plt.tight_layout()
+    plt.savefig('./followingPositionGraphicsBar/top_10_seguintes_direita.png',
+                transparent=True)
+
+    top_10_following_centro = sorted(
+        user_list, key=lambda x: x['following_centro'], reverse=True)[:10]
+
+    top_usernames_following_centro = [
+        user['username'] for user in top_10_following_centro]
+    top_following_counts_centro = [user['following_centro']
+                                   for user in top_10_following_centro]
+
+    plt.figure(figsize=(12, 6))
+    plt.bar(top_usernames_following_centro, top_following_counts_centro,
+            color='#66b3ff', edgecolor='black', linewidth=1)
+    plt.xlabel('Usuário')
+    plt.ylabel('Quantidade de Seguintes')
+    plt.title(
+        'Top 10 Usuários Políticos com Maior Quantidade de Seguintes de Centro')
+    plt.xticks(rotation=45, ha='right')
+
+    for i, count in enumerate(top_following_counts_centro):
+        plt.text(i, count + 0.5, str(count), ha='center', va='bottom')
+
+    plt.tight_layout()
+    plt.savefig('./followingPositionGraphicsBar/top_10_seguintes_centro.png',
+                transparent=True)
+
+    top_10_followers_esquerda = sorted(
+        user_list, key=lambda x: x['followers_esquerda'], reverse=True)[:10]
+
+    top_usernames_followers_esquerda = [
+        user['username'] for user in top_10_followers_esquerda]
+    top_followers_counts_esquerda = [user['followers_esquerda']
+                                     for user in top_10_followers_esquerda]
+
+    plt.figure(figsize=(12, 6))
+    plt.bar(top_usernames_followers_esquerda, top_followers_counts_esquerda,
+            color='#ff9999', edgecolor='black', linewidth=1)
+    plt.xlabel('Usuário')
+    plt.ylabel('Quantidade de Seguidores')
+    plt.title(
+        'Top 10 Usuários Políticos com Maior Quantidade de Seguidores de Esquerda')
+    plt.xticks(rotation=45, ha='right')
+
+    for i, count in enumerate(top_followers_counts_esquerda):
+        plt.text(i, count + 0.5, str(count), ha='center', va='bottom')
+
+    plt.tight_layout()
+    plt.savefig('./followersPositionGraphicsBar/top_10_seguidores_esquerda.png',
+                transparent=True)
+
+    top_10_followers_centro = sorted(
+        user_list, key=lambda x: x['followers_centro'], reverse=True)[:10]
+
+    top_usernames_followers_centro = [
+        user['username'] for user in top_10_followers_centro]
+    top_followers_counts_centro = [user['followers_centro']
+                                   for user in top_10_followers_centro]
+
+    plt.figure(figsize=(12, 6))
+    plt.bar(top_usernames_followers_centro, top_followers_counts_centro,
+            color='#66b3ff', edgecolor='black', linewidth=1)
+    plt.xlabel('Usuário')
+    plt.ylabel('Quantidade de Seguidores')
+    plt.title(
+        'Top 10 Usuários Políticos com Maior Quantidade de Seguidores de Centro')
+    plt.xticks(rotation=45, ha='right')
+
+    for i, count in enumerate(top_followers_counts_centro):
+        plt.text(i, count + 0.5, str(count), ha='center', va='bottom')
+
+    plt.tight_layout()
+    plt.savefig('./followersPositionGraphicsBar/top_10_seguidores_centro.png',
+                transparent=True)
+
+    top_10_followers_direita = sorted(
+        user_list, key=lambda x: x['followers_direita'], reverse=True)[:10]
+
+    top_usernames_followers_direita = [
+        user['username'] for user in top_10_followers_direita]
+    top_followers_counts_direita = [user['followers_direita']
+                                    for user in top_10_followers_direita]
+
+    plt.figure(figsize=(12, 6))
+    plt.bar(top_usernames_followers_direita, top_followers_counts_direita,
+            color='#99ff99', edgecolor='black', linewidth=1)
+    plt.xlabel('Usuário')
+    plt.ylabel('Quantidade de Seguidores')
+    plt.title(
+        'Top 10 Usuários Políticos com Maior Quantidade de Seguidores de Direita')
+    plt.xticks(rotation=45, ha='right')
+
+    for i, count in enumerate(top_followers_counts_direita):
+        plt.text(i, count + 0.5, str(count), ha='center', va='bottom')
+
+    plt.tight_layout()
+    plt.savefig('./followersPositionGraphicsBar/top_10_seguidores_direita.png',
+                transparent=True)
+
+
 if __name__ == "__main__":
 
     with open('dataset.json', 'r') as file_user:
 
         json_file = json.load(file_user)
 
-        graphic_follow_position_pie(json_file, 'LulaOficial',
-                                    1, title='LulaOficial')
-        graphic_follow_position_pie(
-            json_file, 'jairbolsonaro', 1, title='jairbolsonaro')
+        # graphic_follow_position_pie(json_file, 'LulaOficial',
+        #                             1, title='LulaOficial')
+        # graphic_follow_position_pie(
+        #     json_file, 'jairbolsonaro', 1, title='jairbolsonaro')
 
-        graphic_follow_position_pie(json_file, 'cirogomes',
-                                    1, title='cirogomes')
+        # graphic_follow_position_pie(json_file, 'cirogomes',
+        #                             1, title='cirogomes')
 
-        graphic_follow_position_pie(json_file, 'cirogomes',
-                                    1, title='cirogomes')
+        # graphic_follow_position_pie(json_file, 'cirogomes',
+        #                             1, title='cirogomes')
 
-        graphic_follow_position_pie(json_file, 'LulaOficial',
-                                    2, title='LulaOficial')
+        # graphic_follow_position_pie(json_file, 'LulaOficial',
+        #                             2, title='LulaOficial')
 
-        graphic_follow_position_pie(
-            json_file, 'jairbolsonaro', 2, title='jairbolsonaro')
+        # graphic_follow_position_pie(
+        #     json_file, 'jairbolsonaro', 2, title='jairbolsonaro')
 
-        graphic_follow_position_pie(json_file, 'cirogomes',
-                                    2, title='cirogomes')
+        # graphic_follow_position_pie(json_file, 'cirogomes',
+        #                             2, title='cirogomes')
 
-        graphic_follow_number_bar(json_file)
+        # graphic_follow_number_bar(json_file)
 
-        graphic_info_pie(68, 353, 'Inválidos', 'Válidos',
-                         'usuarios_invalidos_validos')
+        # graphic_info_pie(68, 353, 'Inválidos', 'Válidos',
+        #                  'usuarios_invalidos_validos')
 
-        graphic_info_pie(13, 340, 'Outliers', 'Válidos',
-                         'usuarios_outliers_validos')
+        # graphic_info_pie(13, 340, 'Outliers', 'Válidos',
+        #                  'usuarios_outliers_validos')
+
+        count_position_follow(json_file)
