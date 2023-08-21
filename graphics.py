@@ -369,6 +369,44 @@ def count_position_follow(json_file):
                 transparent=True)
 
 
+def count_position_username(json_file):
+
+    direita = 0
+    esquerda = 0
+    centro = 0
+
+    for item in json_file:
+
+        if item['position'] == 'esquerda':
+            esquerda += 1
+        elif item['position'] == 'direita':
+            direita += 1
+        else:
+            centro += 1
+
+    labels = ['Esquerda', 'Direita', 'Centro']
+    sizes = [esquerda, direita, centro]
+    colors = ['#ff9999', '#66b3ff', '#99ff99']
+    explode = (0.1, 0, 0)
+
+    plt.figure(figsize=(8, 6))
+
+    def func(pct, allvalues):
+        absolute = int(np.round(pct/100.*np.sum(allvalues)))
+        return "{:.1f}%\n({:d})".format(pct, absolute)
+
+    plt.pie(sizes, explode=explode, labels=labels, colors=colors,
+            autopct=lambda pct: func(pct, sizes), shadow=True, startangle=140,
+            pctdistance=0.85, wedgeprops={'edgecolor': 'black'})
+
+    plt.title('Ideologia dentre os 340 usuários', fontsize=16)
+    plt.axis('equal')
+
+    plt.tight_layout()
+    plt.savefig('./infoGraphicsPie/usuarios_ideologia_total.png',
+                transparent=True)
+
+
 if __name__ == "__main__":
 
     with open('dataset.json', 'r') as file_user:
@@ -403,4 +441,6 @@ if __name__ == "__main__":
         # graphic_info_pie(13, 340, 'Outliers', 'Válidos',
         #                  'usuarios_outliers_validos')
 
-        count_position_follow(json_file)
+        # count_position_follow(json_file)
+
+        count_position_username(json_file)
